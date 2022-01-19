@@ -33,5 +33,6 @@ ul {
 .content {
     background-color: floralwhite;
     width:1000px;
-    text-align: center;
+    margin: 0 auto;
+    /*맨 위부터 시작할 수 있게..? 타이틀에서부터 바로 시작할 수 있게 하는 방법 알아오기*/
 }
