@@ -1,6 +1,7 @@
 body {
     text-align: center;
     line-height: 40px;
+    background-color: lightblue;
 }
 
 ol {
@@ -16,3 +17,21 @@ ul {
     margin-right: auto;
 }
 
+.link {
+    padding: 40px;
+}
+
+.title {
+    background-color: pink;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.content {
+    background-color: floralwhite;
+    width:1000px;
+    text-align: center;
+}
