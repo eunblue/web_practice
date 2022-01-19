@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    line-height: 40px;
+}
+
+ol {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+}
+
+ul {
+    display: table; /*이거 이해가 좀 안 가넹..*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
