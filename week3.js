@@ -20,7 +20,6 @@ equalbtn.addEventListener("click", function() {
     valuebtn.value = eval(valuebtn.value)
 })
 
-
 for(let i=0;i<9;i++){
     buttons[i].addEventListener("click",function(){
         valuebtn.value+=buttons[i].value
@@ -36,5 +35,3 @@ for(let i=0;i<4;i++){
         valuebtn.value+=operators[i].value
     })
 }
-
-
